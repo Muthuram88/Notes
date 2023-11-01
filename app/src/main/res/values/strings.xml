@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="content_description_notification_icon">Notification Icon</string>
+</resources>
